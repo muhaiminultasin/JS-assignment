@@ -1,3 +1,5 @@
+// The button of problem 7th is decleared in index.html file..
+
 // // Problem 1
 
 let carName = {
@@ -55,7 +57,6 @@ alert(person.name + " is " + person.age);
 function btn(){
     const button = document.getElementById("try");
     button.style.backgroundColor="red";
-
 }
 
 
